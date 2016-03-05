@@ -1,0 +1,44 @@
+******************************************************************************
+About
+Sobre DGM ARACNOFOBIA v1.0.2
+
+ Copyright (c) 2000 David Maziero / DGM Informatica
+
+Notas (Notes) :
+  ESTE JOGO ê UM FREEWARE E PODE SER DISTRIBUIDO LIVREMENTE.
+  THIS GAME IS A FREEWARE AND CAN BE FREELY DISTRIBUTED.
+******************************************************************************
+ Projeto DGM ARACNOFOBIA v1.0 :
+*Project DGM ARACNOFOBIA v1.0 :
+    --> Iniciado em : 5 de Outubro de 2000 ( 5th October 2000 )
+        ( begin at )
+    --> Concluido em: 6 de Outubro de 2000 ( 6th October 2000 )
+        ( ended at )
+
+  Requerimentos M°nimos : ( Minimal Requiriments )
+       386DX-40Mhz - 4MB RAM - VGA video Card
+  Recomendado : ( Recomended )
+       486DX-66Mhz - 4MB RAM - VGA video Card
+
+  Para todas as configuraá‰es : pelo menos 350Kb de mem¢ria convencinal livre.
+* For all the configurations : a minimal of 350Kb of conventional memory.
+
+        ESSE JOGO ê PARA DOS.
+      * THIS GAME IS FOR DOS.
+
+JOGANDO : (PLAYING)
+
+    Use as setas FRENTE e TRAS para mover seu spray, e as setas CIMA e BAIXO
+    para para-lo. Use <espaáo> para atirar e <esc> para sair.
+
+ *  Use the keys FORWARD and BACKWARD to move your spray, and keys UP and DOWN
+ *  to stop it. Use <space> to shot e <esc> to quit.
+
+    Este jogo foi totalmente escrito em PASCAL e ASSEMBLER.
+ *  This game was totally written in PASCAL and ASSEMBLY.
+
+    S∆o Paulo, Brasil.
+ *  State of S∆o Paulo, Brazil.
+
+    Isso Ç tudo.
+ *  It's all.

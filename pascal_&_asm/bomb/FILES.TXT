@@ -1,0 +1,8 @@
+ 
+  -> Bomb v1.0
+     Copyright (c) 1999 David Maziero / DGM Inform tica
+     
+     -Arquivos necess rios a Bomb v1.0 :
+      
+      * BOMB.PAS  - M¢dulo Principal
+      * APREN.PAS - M¢dulo de Apresenta‡Æo
